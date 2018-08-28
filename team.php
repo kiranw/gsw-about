@@ -88,7 +88,7 @@ include('templates/nav-bar.php');
                                                                           src="team/img/Shaurya.jpg"></a>
                 <div class="team-name">Shaurya Agarwal</div>
                 <div class="team-role">GSW Co-Director</div>
-                <div class="team-area">Harvard University Graduate School of Design</div>
+                <div class="team-area">MIT Sloan School of Management</div>
             </div>
         </div>
 

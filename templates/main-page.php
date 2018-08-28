@@ -47,6 +47,19 @@
 </div>
 
 
+<br />
+      <div class="section-header">Local Roots, Global Reach</div>
+      <p>Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
+
+      <p class="text-center">
+        <a href="img/gsw-history-map-2018-high.png" title="Click to open larger version of the map">
+          <img src="img/gsw-history-map-2018-high.png" class="img-responsive full-width" alt="Map of countries" />
+        </a>
+      </p>
+      <p class="text-center">(Click on the map to expand it.)</p>
+      <br />
+
+
 <div class="section">
     <div class="section-header">GSW 2018: Bangkok, Thailand</div>
     <p>GSW's 2018 conference was held in Bangkok, Thailand from March 26 to March 28. Learn more about our conference speakers, mentors, schedule, and competitions at <a href="http://gsw.mit.edu/2018/">last year's website</a>.
@@ -87,3 +100,12 @@
         </div>
     </div>
 </div>
+
+
+<br />
+      <div class="section-header">Interested in joining the organizing team?</div>
+      <div>
+            We're an MIT based graduate student group, and are still in the process of building out our team for 2018-2019. Contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a> for more
+            information. We're working on building out our team for 2018-2019 and would love get in touch. Sign up on our interest form <a href="https://docs.google.com/forms/d/e/1FAIpQLSedF_cfqVxQFeibJavNA2uVihiVL-6QWQgiTz7OPbsqiKXzJw/viewform?usp=sf_link">here</a>!
+      </div>
+<br />
