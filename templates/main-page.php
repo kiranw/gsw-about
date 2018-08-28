@@ -6,7 +6,7 @@
 
 <div class="splash-carousel section-header-page">
     <div>
-        <img class="splash-carousel-img" src="../img/headers/mit-header.png">
+        <img class="splash-carousel-img" src="img/headers/mit-header.png">
         <div class="splash-text">
             <span class="splash-tiny">the</span>
             MIT Global Startup Workshop
@@ -17,7 +17,7 @@
 </div>
 
 <?php
- echo '
+/* echo '
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <!--<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>-->
@@ -35,6 +35,7 @@
         });
     </script>
 ';
+*/
 ?>
 
 <br><br><br>
@@ -48,7 +49,7 @@
 
 <div class="section">
     <div class="section-header">GSW 2018: Bangkok, Thailand</div>
-    <p>GSW's 2018 conference was held in Bangkok, Thailand from March 26 to March 28. Learn more about our conference speakers, mentors, schedule, and competitions at <a href="gsw.mit.edu/2018">last year's website</a>.
+    <p>GSW's 2018 conference was held in Bangkok, Thailand from March 26 to March 28. Learn more about our conference speakers, mentors, schedule, and competitions at <a href="http://gsw.mit.edu/2018/">last year's website</a>.
     <p class="text-center">
         <a href="img/gsw-recap-2018-high.png" title="Click to open larger version of the map">
             <img src="img/gsw-recap-2018-high.png" class="img-responsive full-width" alt="GSW in Bangkok, Thailand: Summary" />
