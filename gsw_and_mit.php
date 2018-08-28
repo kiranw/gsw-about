@@ -1,21 +1,25 @@
 <?php
-$pageTitle = 'Get Involved With MIT | MIT Global Startup Workshop 2018';
+$pageTitle = 'GSW and MIT | MIT Global Startup Workshop';
 $metaDescription = 'MIT Global Startup Workshop is coming to Thailand this year. Grab tickets now and come have an entrepreneurial experience you will never forget!';
 $specificKeywords = 'Get Involved With MIT, MITx MicroMasters, MIT REAP, MIT Legatum,Martin Trust Center for MIT Entrepreneurship';
 include('templates/nav-bar.php');
 ?>
 
-    <div class="parallax-window header" data-parallax="scroll" data-image-src="headers/img/mit-header.png">
+    <div class="parallax-window header" data-parallax="scroll" data-image-src="img/headers/mit-header.png">
         <h1 class="parallax-text">
-            Get Involved With MIT
+            GSW and MIT
         </h1>
     </div>
     <br/>
     <div class="section">
-        <p>Would you like to get involved with MIT? All of these MIT organizations will have booths and staff at our
-            conference to help you choose the right MIT program for you and your startup.</p>
+        <p>GSW aims to build entrepreneurial ecosystems around the globe by leveraging MIT's entrepreneurial resources,
+            and by connecting conference attendees to local organizations that can continue to accelerate the region's
+            startup success. It's fitting that MIT GSW strongly believes in collaboration, across regions and within
+            MIT. Here are a few MIT-based organizations that we have proudly worked with in the past, and presently.
+        </p>
     </div>
     <div class="section">
+        <div class="section-header section-header-page">Collaboration Across MIT</div>
         <div class="row mit_involve">
             <div class="mit-organization col-sm-6 col-md-3">
                 <a class='mit-org-link' alt='MIT Legatum Center for Development & Entrepreneurship' target="_blank"

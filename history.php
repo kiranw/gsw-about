@@ -5,7 +5,7 @@
 include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" data-image-src="headers/img/mit-header.png">
+<div class="parallax-window header" data-parallax="scroll" data-image-src="img/headers/mit-header.png">
     <h1 class="parallax-text">
         Our history
     </h1>
@@ -18,7 +18,7 @@ include('templates/nav-bar.php');
 
         <p><strong>MIT GSW</strong> is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).</p>
 
-        <p>Since 1998, our non-profit, student-run organization has held 20 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to bring MIT GSW to Bangkok, Thailand in 2018.</p>
+        <p>Since 1998, our non-profit, student-run organization has held 21 international workshops across 6 continents, and has attracted participants from over 70 nations.</p>
 
       <br />
       <div class="section-header">Local Roots, Global Reach</div>
@@ -32,14 +32,6 @@ include('templates/nav-bar.php');
       <p class="text-center">(Click on the map to expand it.)</p>
       <br />
 
-      <div class="section-header">GSW 2017 Conference Highlights</div>
-      <div class="row">
-        <div class="col-md-12" id="past-video-container">
-          <iframe class="video-responsive" src="https://www.youtube-nocookie.com/embed/UmR5QitKu-0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" id="past-video" allowfullscreen></iframe>
-        </div>
-      </div>
-      <br>
-      <br>
       
       <div class="section-header">Explore Past Conferences</div>
       <div class="text-center" id="past_websites">

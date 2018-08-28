@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 text-center subscribe">
-                <p class="section-header section-header-footer">Stay in touch! Subscribe to our newsletter.</p>
-                <p>Don't miss any news about MIT GSW 2019. We promise we won't spam you.</p>
+                <p class="section-header section-header-footer">Stay in touch!</p>
+                <p>Don't miss any news about MIT GSW 2019. Subscribe to our newsletter. We promise we won't spam you.</p>
                 <form method="post" class="form-inline" action="http://gsw.mit.edu/wordpress/?na=s">
                     <div class="form-group">
                         <input class="form-control" type="email" name="ne" placeholder="Email" required>
@@ -12,6 +12,7 @@
                 </form>
             </div>
         </div>
+        <br>
         <div class="row text-center">
             <div class="col-md-offset-2 col-md-8">
                 <div class="row">
@@ -44,19 +45,16 @@
             </div>
             <div class="col-md-4">
                 <p class="footer-title">Organization</p>
-                <a href="get_involved.php">Get involved with MIT</a><br>
                 <a href="history.php">History</a><br>
                 <a href="team.php">Who we are</a><br>
-                <a href="sponsors.php">Sponsors</a><br>
-                <a href="collaborators.php">Collaborators</a><br>
-                <a href="index.php#location">Venue</a><br>
+                <a href="gsw_and_mit.php">GSW and MIT</a><br>
             </div>
         </div>
     
         <div class="row">
             <div class="copyright col-md-12">
                 Copyright ©2011–2019 Massachusetts Institute of Technology. All rights reserved.<br>
-                For more information please contact <a href="mailto:gsw-tech@mit.edu">gsw-tech@mit.edu</a>
+                For more information please contact <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a>
             </div>
         </div>
     </div>

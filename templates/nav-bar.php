@@ -11,18 +11,18 @@
     <title><?= $pageTitle ?></title>
     <meta name="description" content="<?= $metaDescription ?>">
     <meta name="keywords" content="MIT Global Startup Workshop, MIT GSW, MIT, Thailand, Entrepreneurship, Mentorship, Workshops, Innovation, Technology,innovation-driven entrepreneurship,Sasin School of Managment, MIT Association of Thailand,<?= $specificKeywords?>">
-    <link rel="shortcut icon" href="favicon.ico"/>
-    <link rel="canonical" href="http://2017.mitgsw.org/">
+    <link rel="shortcut icon" href="img/favicon.ico"/>
+    <link rel="canonical" href="http://2018.mitgsw.org/">
     <meta property="og:site_name" content="MIT Global Startup Workshop">
     <meta property="og:title" content="Home">
-    <meta property="og:url" content="http://gsw.mit.edu/2018/">
+    <meta property="og:url" content="http://gsw.mit.edu/">
     <meta itemprop="name" content="Home">
-    <meta itemprop="url" content="http://gsw.mit.edu/2018/">
+    <meta itemprop="url" content="http://gsw.mit.edu/">
     <link rel="image_src" href="img/logo.png">
     <meta itemprop="image" content="img/logo.png">
     <meta name="twitter:title" content="Home">
     <meta name="twitter:image" content="img/logo.png">
-    <meta name="twitter:url" content="http://gsw.mit.edu/2018/">
+    <meta name="twitter:url" content="http://gsw.mit.edu/2019/">
     <meta name="twitter:card" content="summary">
     <meta name="description" content="MIT Global Startup Workshop is coming to Thailand this year. Grab tickets now and come have an entrepreneurial experience you will never forget!">
     <meta property="og:type" content="website">
@@ -30,6 +30,8 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css?v=<?= $cssVersion ?>">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="vendor/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="vendor/slick-theme.css"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -44,21 +46,21 @@
     <!-- End global site tag (gtag.js) - Google Analytics -->
 
     <!-- Facebook Pixel Code -->
-    <script>
-        !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-        n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window,document,'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '334959103628229'); 
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=334959103628229&ev=PageView&noscript=1"/>
-    </noscript>
+    <!--<script>-->
+        <!--!function(f,b,e,v,n,t,s)-->
+        <!--{if(f.fbq)return;n=f.fbq=function(){n.callMethod?-->
+        <!--n.callMethod.apply(n,arguments):n.queue.push(arguments)};-->
+        <!--if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';-->
+        <!--n.queue=[];t=b.createElement(e);t.async=!0;-->
+        <!--t.src=v;s=b.getElementsByTagName(e)[0];-->
+        <!--s.parentNode.insertBefore(t,s)}(window,document,'script',-->
+        <!--'https://connect.facebook.net/en_US/fbevents.js');-->
+        <!--fbq('init', '334959103628229'); -->
+        <!--fbq('track', 'PageView');-->
+    <!--</script>-->
+    <!--<noscript>-->
+        <!--<img height="1" width="1" src="https://www.facebook.com/tr?id=334959103628229&ev=PageView&noscript=1"/>-->
+    <!--</noscript>-->
     <!-- End Facebook Pixel Code -->
 </head>
 <body>
@@ -89,6 +91,8 @@
                         <a class="dropdown-item" href="history.php">History</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="team.php">Who we are</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="gsw_and_mit.php">GSW and MIT</a>
                     </div>
                 </li>
             </ul>
