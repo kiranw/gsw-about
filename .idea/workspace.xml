@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39fb7c9f-802b-47cd-8c64-7c630c69ca9a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/main-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slick.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faq.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/bpc-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/competition-generic-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/epc-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/header1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/header2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/keynotes-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/mit-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/schedule-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/speakers-header-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/startup-showcase-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/venue-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/headers/img/we-header-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sponsors.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/showcase.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/get_involved.php" afterPath="$PROJECT_DIR$/gsw_and_mit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bill_clinton.png" afterPath="$PROJECT_DIR$/img/bill_clinton.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/rafael_reif.jpg" afterPath="$PROJECT_DIR$/img/rafael_reif.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/history.php" afterPath="$PROJECT_DIR$/history.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team.php" afterPath="$PROJECT_DIR$/team.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/footer.php" afterPath="$PROJECT_DIR$/templates/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/nav-bar.php" afterPath="$PROJECT_DIR$/templates/nav-bar.php" />
-    </list>
+    <list default="true" id="39fb7c9f-802b-47cd-8c64-7c630c69ca9a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -283,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535431164051</updated>
-      <workItem from="1535431165285" duration="8886000" />
+      <workItem from="1535431165285" duration="8928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8886000" />
+    <option name="totallyTimeSpent" value="8928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
