@@ -42,7 +42,7 @@ include('templates/nav-bar.php');
             <div class="col-md-3">
                 <img src="team/img/Diana.jpg" class="team-picture" alt="">
                 <div class="team-name">Diana Lu</div>
-                <div class="team-role">MIT GSW 2018 Lead</div>
+                <div class="team-role">MIT GSW 2018 Co-Director</div>
                 <div class="team-area">MIT Health Sciences Technology</div>
             </div>
             <div class="col-md-3">
@@ -56,13 +56,13 @@ include('templates/nav-bar.php');
             <div class="col-md-3">
                 <img src="team/img/Juan.jpg" class="team-picture" alt="">
                 <div class="team-name">Juan Ruiz Ruiz</div>
-                <div class="team-role">MIT GSW 2018 Lead</div>
+                <div class="team-role">MIT GSW 2018 Co-Director</div>
                 <div class="team-area">MIT Nuclear Science and Engineering</div>
             </div>
             <div class="col-md-3">
                 <img src="team/img/rami.jpg" class="team-picture" alt="">
                 <div class="team-name">Rami Abi Akl</div>
-                <div class="team-role">MIT GSW 2017 Lead</div>
+                <div class="team-role">MIT GSW 2017 Co-Director</div>
                 <div class="team-area"></div>
             </div>
         </div>
@@ -72,22 +72,22 @@ include('templates/nav-bar.php');
         <div class="section-header section-header-page">Organizing Team</div>
         <div></div>
         <div class="row team-row text-center">
-            <div class="col-xs-12"><h2>Leads</h2></div>
+            <div class="col-xs-12"><h2>Co-Directors</h2></div>
             <div class="team col-md-4"><a href="#teamAditiGupta"><img class="team-picture" src="team/img/aditi.jpg"></a>
                 <div class="team-name">Aditi Gupta</div>
-                <div class="team-role">GSW Lead Organizer</div>
+                <div class="team-role">GSW Co-Director</div>
                 <div class="team-area">MIT Health Sciences Technology</div>
             </div>
             <div class="team col-md-4"><a href="#teamKiranWattamwar"><img class="team-picture"
                                                                                    src="team/img/Kiran.jpg"></a>
                 <div class="team-name">Kiran Wattamwar</div>
-                <div class="team-role">GSW Lead Organizer</div>
+                <div class="team-role">GSW Co-Director</div>
                 <div class="team-area">Harvard University Graduate School of Design</div>
             </div>
             <div class="team col-md-4"><a href="#teamShauryaAgarwal"><img class="team-picture"
                                                                           src="team/img/Shaurya.jpg"></a>
                 <div class="team-name">Shaurya Agarwal</div>
-                <div class="team-role">GSW Lead Organizer</div>
+                <div class="team-role">GSW Co-Director</div>
                 <div class="team-area">Harvard University Graduate School of Design</div>
             </div>
         </div>
@@ -102,25 +102,25 @@ include('templates/nav-bar.php');
                 </div>
                 <div class="team col-sm-6 col-md-3"><a href="#teamTomLuly"><img class="team-picture" src="team/img/tom.jpg"></a>
                     <div class="team-name">Tom Luly</div>
-                    <div class="team-role">GSW Marketing Lead</div>
+                    <div class="team-role">GSW Marketing Co-Director</div>
                 </div>
             </div>
             <div class="col-md-12">
                 <div class="team col-sm-6 col-md-offset-2 col-md-3"><a href="#teamPaoloMinelli"><img class="team-picture" src="team/img/Paolo.jpg"></a>
                     <div class="team-name">Paolo Minelli</div>
-                    <div class="team-role">GSW Competitions team lead</div>
+                    <div class="team-role">GSW Competitions team Co-Director</div>
                     <div class="team-area">MIT Nuclear Science and Engineering</div>
                 </div>
                 <div class="team col-sm-6 col-md-3"><a href="#teamGabrielaScardine"><img class="team-picture"
                                                                                          src="team/img/Gabriela.jpg"></a>
                     <div class="team-name">Gabriela Scardine</div>
-                    <div class="team-role">GSW Tech team lead</div>
+                    <div class="team-role">GSW Tech team Co-Director</div>
                     <div class="team-area">Software Engineer</div>
                 </div>
                 <div class="team col-sm-6 col-md-3"><a href="#teamMariaZagorulya"><img class="team-picture"
                                                                                        src="team/img/Maria.jpg"></a>
                     <div class="team-name">Maria Zagorulya</div>
-                    <div class="team-role">GSW Content team lead</div>
+                    <div class="team-role">GSW Content team Co-Director</div>
                     <div class="team-area">MIT Biology</div>
                 </div>
             </div>
@@ -182,7 +182,7 @@ include('templates/nav-bar.php');
             </div>
             <div class="col-md-7 col-lg-9">
                 <div class="team-expanded-name">Aditi Gupta</div>
-                <div class="team-expanded-role">Lead Organizer</div>
+                <div class="team-expanded-role">Co-Director</div>
                 <div class="team-expanded-text">
                 </div>
             </div>
@@ -193,7 +193,7 @@ include('templates/nav-bar.php');
             </div>
             <div class="col-md-7 col-lg-9">
                 <div class="team-expanded-name">Kiran Wattamwar</div>
-                <div class="team-expanded-role">Lead Organizer</div>
+                <div class="team-expanded-role">Co-Director</div>
                 <div class="team-expanded-text">Kiran is from Edison, NJ and is currently based in Cambridge. She's a
                     candidate of the Masters in Design Engineering, an interdisciplinary program offered by Harvard's
                     Graduate School of Design and School of Engineering and Applied Sciences. She's also a recent MIT'17
@@ -211,7 +211,7 @@ include('templates/nav-bar.php');
             </div>
             <div class="col-md-7 col-lg-9">
                 <div class="team-expanded-name">Shaurya Agarwal</div>
-                <div class="team-expanded-role">Lead Organizer</div>
+                <div class="team-expanded-role">Co-Director</div>
                 <div class="team-expanded-text">Shaurya is a second year MBA candidate at the MIT Sloan School of
                     Management with a concentration on Entrepreneurship &amp; Innovation. Prior to MIT, he was a
                     management consultant with Bain &amp; Company, working with clients in a variety of sectors
@@ -230,7 +230,7 @@ include('templates/nav-bar.php');
             <div class="col-md-7 col-lg-9">
                 <div class="team-expanded-name">Diana Lu</div>
                 <div class="team-expanded-role">Advisory Board Member</div>
-                <div class="team-expanded-text">Diana, a 2018 GSW Lead Organizer, is a 4th year MD-PhD student at Harvard Medical School in the
+                <div class="team-expanded-text">Diana, a 2018 GSW Co-Director Organizer, is a 4th year MD-PhD student at Harvard Medical School in the
                     Harvard-MIT Health Sciences &amp; Technology program. She grew up in Boston and attended Tufts
                     University as an undergraduate. After university, she worked at the Broad Institute of Harvard &amp;
                     MIT to advance methods for single-cell genomics. She is currently completing her Ph.D. in the lab of
@@ -246,7 +246,7 @@ include('templates/nav-bar.php');
             <div class="col-md-7 col-lg-9">
                 <div class="team-expanded-name">David Miranda Nieves</div>
                 <div class="team-expanded-role">Advisory Board Member</div>
-                <div class="team-expanded-text">David, a 2018 GSW Lead Organizer, is a Ph.D. candidate in the Harvard-MIT Health Science and
+                <div class="team-expanded-text">David, a 2018 GSW Co-Director Organizer, is a Ph.D. candidate in the Harvard-MIT Health Science and
                     Technology Program. A native of Puerto Rico, David received his BA in Material Science and
                     Engineering at MIT. His research combines microfabrication, stem cell research and microfludics to
                     develop tissue-engineered arterial substitutes for use in bypass surgeries. In his spare time, David
@@ -263,7 +263,7 @@ include('templates/nav-bar.php');
             <div class="col-md-7 col-lg-9">
                 <div class="team-expanded-name">Juan Ruiz Ruiz</div>
                 <div class="team-expanded-role">Advisory Board Member</div>
-                <div class="team-expanded-text">Juan Ruiz Ruiz, a 2018 GSW Lead Organizer, is native from Murcia, Spain. Juan is currently a 6th
+                <div class="team-expanded-text">Juan Ruiz Ruiz, a 2018 GSW Co-Director Organizer, is native from Murcia, Spain. Juan is currently a 6th
                     year PhD student at MIT where he works on thermonuclear fusion energy, studying the turbulent
                     processes of plasmas under thermonuclear conditions. Juan holds a Masters from the Aeronautics and
                     Astronautics department at MIT from 2015. Before MIT, Juan completed his undergraduate and graduate
@@ -279,7 +279,7 @@ include('templates/nav-bar.php');
             </div>
             <div class="col-md-7 col-lg-9">
                 <div class="team-expanded-name">Maria Zagorulya</div>
-                <div class="team-expanded-role">Content team lead</div>
+                <div class="team-expanded-role">Content team Co-Director</div>
                 <div class="team-expanded-text">Maria is a first year Ph.D. student in Biology at MIT. She graduated
                     summa cum laude with a B.S. in Biochemistry from University of Rochester. Previously, Maria
                     completed research projects addressing questions in cancer, aging and gene editing, and she hopes to
