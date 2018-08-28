@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 438 517">
+ <g style="">
+  <path fill="#1E1E1E" d="m0 0v169.31c0 216.5 146.2 303.47 219 345.5 72.802-42.032 219-129 219-345.5v-169.31h-219-219z"/>
+  <path fill="#A51C30" d="m17.5 17.5v151.81c0 201 127.28 282.05 201.5 325.19 74.22-43.14 201.5-124.19 201.5-325.19v-151.81h-201.5-201.5z"/>
+  <g style="" fill="#fff">
+   <path d="m112 60v42h13.938v201h-13.938v42h72v-42h-13.938v-78.438h97.875v78.438h-13.938v42h72v-42h-13.938v-201h13.938v-42h-72v42h13.938v78.438h-97.875v-78.438h13.938v-42h-72z" stroke="#1E1E1E" stroke-width="9"/>
+   <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m4 4v2.5 162.81c0 211.8 140.13 297.51 213.75 340.09l1.25 0.71875 1.25-0.71875c73.62-42.58 213.75-128.29 213.75-340.09v-162.81-2.5h-2.5-212.5-212.5-2.5zm5 5h210 210v160.31c0 208.51-136.23 292.31-210 335.03-73.77-42.72-210-126.52-210-335.03v-160.31z"/>
+  </g>
+ </g>
+</svg>
