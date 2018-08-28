@@ -48,6 +48,7 @@
 
 
 <br />
+<div class="section">
       <div class="section-header">Local Roots, Global Reach</div>
       <p>Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
 
@@ -58,6 +59,7 @@
       </p>
       <p class="text-center">(Click on the map to expand it.)</p>
       <br />
+</div>
 
 
 <div class="section">
