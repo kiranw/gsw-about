@@ -109,7 +109,7 @@
       <div class="section-header">Interested in joining the organizing team?</div>
       <div>
             We're an MIT based graduate student group, and are still in the process of building out our team for 2018-2019. Contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a> for more
-            information. We're working on building out our team for 2018-2019 and would love get in touch. Sign up on our interest form <a href="https://docs.google.com/forms/d/e/1FAIpQLSedF_cfqVxQFeibJavNA2uVihiVL-6QWQgiTz7OPbsqiKXzJw/viewform?usp=sf_link">here</a>!
+            information. We're working on building out our team for 2018-2019 and would love get in touch. Sign up on our interest form <a href="https://docs.google.com/forms/d/e/1FAIpQLSedF_cfqVxQFeibJavNA2uVihiVL-6QWQgiTz7OPbsqiKXzJw/viewform?usp=sf_link">here</a>! Applications are available at <a href="https://mit.co1.qualtrics.com/jfe/form/SV_cYcOOZYe661HLiB">this link</a> and are due by midnight on Friday, September 28th, 2019.
       </div>
 </div>
 <br />
