@@ -9,7 +9,7 @@ It uses Composer for dependency management, supports PHP or HHVM (experimental) 
 
 ## Usage
 
-You'll need to use at least an empty `composer.json` in your application.
+You'll need to use at least an empty "composer.json" in your application
 
     $ echo '{}' > composer.json
     $ git add composer.json
