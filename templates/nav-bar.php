@@ -88,7 +88,7 @@
                         About <span class="caret"></span>
                     </a>
                     <div id="aboutMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="http://gsw.mit.edu/2018/">GSW 2018:<br> Bangkok</a>
+                        <a class="dropdown-item" href="http://gsw.mit.edu/2019/">GSW 2019</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="history.php">History</a>
                         <div class="dropdown-divider"></div>
