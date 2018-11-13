@@ -37,6 +37,12 @@ include('templates/nav-bar.php');
       <div class="text-center" id="past_websites">
         <div class="row">
           <div class="col-md-4 history-item">
+            <a title='MIT GSW 2017' href="http://gsw.mit.edu/2018">
+              <img src="img/past-websites/2018-bangkok.jpeg" class="img-responsive full-width" />
+              <div><span class="history-place">Bangkok, Thailand</span><br><span class="history-year">GSW 2018</span></div>
+            </a>
+          </div>
+          <div class="col-md-4 history-item">
             <a title='MIT GSW 2017' href="http://2017.mitgsw.org/">
               <img src="img/past-websites/2017-santiago.jpg" class="img-responsive full-width" />
               <div><span class="history-place">Santiago, Chile</span><br><span class="history-year">GSW 2017</span></div>
@@ -46,14 +52,14 @@ include('templates/nav-bar.php');
             <img src="img/past-websites/2016-hyderabad.jpg" class="img-responsive full-width" />
             <div><span class="history-place">Hyderabad, India</span><br><span class="history-year">GSW 2016</span></div>
           </div>
+        </div>
+        <div class="row">
           <div class="col-md-4 history-item">
             <a title='MIT GSW 2015' href="http://gsw.mit.edu/2015">
               <img src="img/past-websites/2015-guatemala.jpg" class="img-responsive full-width" />
               <div><span class="history-place">Guatemala City, Guatemala</span><br><span class="history-year">GSW 2015</span></div>
             </a>
           </div>
-        </div>
-        <div class="row">
           <div class="col-md-4 history-item">
             <a title='MIT GSW 2014' href="http://gsw.mit.edu/2014">
               <img src="img/past-websites/2014-morocco.jpg" class="img-responsive full-width" />
@@ -66,14 +72,14 @@ include('templates/nav-bar.php');
               <div><span class="history-place">Talinn, Estonia</span><br><span class="history-year">GSW 2013</span></div>
             </a>
           </div>
+        </div>
+        <div class="row">
           <div class="col-md-4 history-item">
             <a title='MIT GSW 2012' href="http://gsw.mit.edu/2012">
               <img src="img/past-websites/2012-istanbul.jpg" class="img-responsive full-width" />
               <div><span class="history-place">Istanbul, Turkey</span><br><span class="history-year">GSW 2012</span></div>
             </a>
           </div>
-        </div>
-        <div class="row">
           <div class="col-md-4 history-item">
             <a title='MIT GSW 2011' href="http://gsw.mit.edu/2011">
               <img src="img/past-websites/2011-seoul.jpg" class="img-responsive full-width" />
@@ -86,12 +92,12 @@ include('templates/nav-bar.php');
               <div><span class="history-place">Reykjavik, Iceland</span><br><span class="history-year">GSW 2010</span></div>
             </a>
           </div>
+        </div>
+        <div class="row">
           <div class="col-md-4 history-item">
             <img src="img/past-websites/2009-capetown.jpg" class="img-responsive full-width" />
             <div><span class="history-place">Cape Town, South Africa</span><br><span class="history-year">GSW 2009</span></div>
           </div>
-        </div>
-        <div class="row">
           <div class="col-md-4 history-item">
             <img src="img/past-websites/2008-madrid.jpg" class="img-responsive full-width" />
             <div><span class="history-place">Madrid, Spain</span><br><span class="history-year">GSW 2008</span></div>
@@ -100,6 +106,8 @@ include('templates/nav-bar.php');
             <img src="img/past-websites/2007-trondheim.jpg" class="img-responsive full-width" />
             <div><span class="history-place">Trondheim, Norway</span><br><span class="history-year">GSW 2007</span></div>
           </div>
+        </div>
+        <div class="row">
           <div class="col-md-4 history-item">
             <img src="img/past-websites/2006-buenosaires.jpg" class="img-responsive full-width" />
             <div><span class="history-place">Buenos Aires, Argentina</span><br><span class="history-year">GSW 2006</span></div>
