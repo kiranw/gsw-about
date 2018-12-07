@@ -42,6 +42,7 @@
 <div class="section">
     <a id="conference-button" class="form-control" href="http://gsw.mit.edu/2019/">Visit the 2019 Conference Website</a>
     <p style="text-align:center"> Check out this year's conference in collaboration with the Chamber of Commerce of Bogota!</p>
+    <br />
     <div class="section-header">20 Years Strong</div>
     <p>MIT Global Startup Workshop (MIT GSW) is an annual 3-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.</p>
     <p>MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).</p>
