@@ -92,7 +92,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="history.php">History</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="team.php">Who we are</a>
+                        <a class="dropdown-item" href="http://gsw.mit.edu/2019/team.php">Who we are</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="gsw_and_mit.php">GSW and MIT</a>
                     </div>
