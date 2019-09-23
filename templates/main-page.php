@@ -64,7 +64,6 @@
             <li>October 1st, 7:30-8:30PM @ main campus (4-145)</li>
         </ul>
         <br><br>
-        Applications are available at <a href="https://mit.co1.qualtrics.com/jfe/form/SV_cYcOOZYe661HLiB">this link</a> and are due by midnight on Friday, September 28th, 2019.</strong>
     </div>
 </div>
 
