@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39fb7c9f-802b-47cd-8c64-7c630c69ca9a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/main-page.php" afterPath="$PROJECT_DIR$/templates/main-page.php" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,21 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10635">
-              <caret line="709" column="16" lean-forward="false" selection-start-line="709" selection-start-column="16" selection-end-line="709" selection-end-column="16" />
+            <state relative-caret-position="676">
+              <caret line="1421" column="0" lean-forward="true" selection-start-line="1421" selection-start-column="0" selection-end-line="1421" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main-page.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/main-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="80">
+              <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#div#1;n#div#2;n#!!top" expanded="true" />
               </folding>
@@ -115,6 +115,7 @@
       <find>splash-text</find>
       <find>quote</find>
       <find>20</find>
+      <find>confernce</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,8 +132,8 @@
         <option value="$PROJECT_DIR$/templates/footer.php" />
         <option value="$PROJECT_DIR$/team.php" />
         <option value="$PROJECT_DIR$/templates/nav-bar.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/templates/main-page.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -248,12 +249,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535431164051</updated>
       <workItem from="1535431165285" duration="8928000" />
-      <workItem from="1569199843125" duration="246000" />
+      <workItem from="1569199843125" duration="572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9174000" />
+    <option name="totallyTimeSpent" value="9500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="6" />
@@ -420,14 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10635">
-          <caret line="709" column="16" lean-forward="false" selection-start-line="709" selection-start-column="16" selection-end-line="709" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/history.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -438,11 +431,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/main-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="80">
+          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#div#1;n#div#2;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="1421" column="0" lean-forward="true" selection-start-line="1421" selection-start-column="0" selection-end-line="1421" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
