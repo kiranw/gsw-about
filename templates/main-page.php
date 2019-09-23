@@ -54,7 +54,7 @@
 <div class="section">
     <div class="section-header">Join our organizing team</div>
     <div>
-        We're an MIT based graduate student group, and are in the process of building out our team for 2019-2020.<br>
+        We're an MIT based graduate student group, and are in the process of building out our team for 2019-2020.<br><br>
         <strong style="color:#dd4f33">Apply <a href="https://mit.co1.qualtrics.com/jfe/form/SV_74nXimXtDPF2mS9">here</a> to join our team. Applications are due by 11:59PM on Saturday, October 5th, 2019.<br></strong>
         <br><br>
         For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a> or attend one of our info sessions:<br>
