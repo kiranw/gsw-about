@@ -39,14 +39,36 @@
 ?>
 
 <br><br><br>
+
 <div class="section">
     <a id="conference-button" class="form-control" href="http://gsw.mit.edu/2019/">Visit the 2019 Conference Website</a>
-    <p style="text-align:center"> Check out this year's conference in collaboration with the Chamber of Commerce of Bogota!</p>
+    <p style="text-align:center"> Check out this past year's conference in collaboration with the Chamber of Commerce of Bogota!</p>
     <br />
     <div class="section-header">20 Years Strong</div>
-    <p>MIT Global Startup Workshop (MIT GSW) is an annual 3-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.</p>
+    <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.</p>
     <p>MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).</p>
-    <p>Since 1998, our non-profit, student-run organization has held 21 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2019.</p>
+    <p>Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2020.</p>
+</div>
+
+<br />
+
+
+
+<div class="section">
+    <div class="section-header">Join our organizing team</div>
+    <div>
+        We're an MIT based graduate student group, and are in the process of building out our team for 2019-2020.<br>
+        <strong style="color:#dd4f33">Apply <a href="https://mit.co1.qualtrics.com/jfe/form/SV_74nXimXtDPF2mS9">here</a> to join our team. Applications are due by 11:59PM on Saturday, October 5th, 2019.<br></strong>
+        <br><br>
+        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a> or attend one of our info sessions:<br>
+        <ul>
+            <li>September 23rd, 11:45AM-12:45PM @ Sloan (E51-145)</li>
+            <li>September 25th, 7:30-8:30PM @ main campus (4-153)</li>
+            <li>October 1st, 7:30-8:30PM @ main campus (4-145)</li>
+        </ul>
+        <br><br>
+        Applications are available at <a href="https://mit.co1.qualtrics.com/jfe/form/SV_cYcOOZYe661HLiB">this link</a> and are due by midnight on Friday, September 28th, 2019.</strong>
+    </div>
 </div>
 
 
@@ -63,6 +85,7 @@
       <p class="text-center">(Click on the map to expand it.)</p>
       <br />
 </div>
+<br>
 
 
 <div class="section">
@@ -77,7 +100,7 @@
     <br />
 </div>
 
-
+<br>
 
 <div class="section container-fluid" style="margin-bottom:-5px">
     <div class="section-header">Endorsed by world-class leaders</div>
@@ -106,15 +129,4 @@
     </div>
 </div>
 
-
-<br />
-<div class="section">
-      <div class="section-header">Interested in joining the organizing team?</div>
-      <div>
-            We're an MIT based graduate student group, and are still in the process of building out our team for 2018-2019. Contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a> for more
-            information. We're working on building out our team for 2018-2019 and would love get in touch. Sign up on our interest form <a href="https://docs.google.com/forms/d/e/1FAIpQLSedF_cfqVxQFeibJavNA2uVihiVL-6QWQgiTz7OPbsqiKXzJw/viewform?usp=sf_link">here</a>! 
-<br><br>
-<strong style="color:#dd4f33">Applications are available at <a href="https://mit.co1.qualtrics.com/jfe/form/SV_cYcOOZYe661HLiB">this link</a> and are due by midnight on Friday, September 28th, 2019.</strong>
-      </div>
-</div>
 <br />
