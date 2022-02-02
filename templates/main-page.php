@@ -41,8 +41,8 @@
 <br><br><br>
 
 <div class="section">
-    <a id="conference-button" href="http://gsw.mit.edu/2019/">Visit the 2019 Conference Website</a>
-    <p style="text-align:center"> Check out this past year's conference in collaboration with the Chamber of Commerce of Bogota!</p>
+    <a id="conference-button" href="http://gsw.mit.edu/2020/">Visit the 2020 Conference Website</a>
+    <p style="text-align:center"> Check out this past year's conference!</p>
     <br />
 </div>
 
